@@ -20,8 +20,9 @@ function myFunction() {
                 2: "9PT",
                 3: "EP"
             }
+            
         }
-    };
-}
+    }; return myMusic;
+} 
 myFunction()[2];
 module.exports = myFunction;
